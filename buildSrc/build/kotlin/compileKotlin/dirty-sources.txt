@@ -1,0 +1,1 @@
+/Users/rainfool/WorkSpace/TestBuildSrc/buildSrc/src/main/java/com.duowan.viewcomponent.plugin/rfinal/Drive.kt

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestBuildSrc</string>
+    <string name="action_settings">Settings</string>
+</resources>
